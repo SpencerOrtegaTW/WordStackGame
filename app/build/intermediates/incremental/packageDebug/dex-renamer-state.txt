@@ -1,0 +1,7 @@
+#Sat Mar 11 16:19:00 PST 2017
+base.0=/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e7990a50e6a22fb7e03fbd0280a2709703e15b81
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c02869ef8a3465d162bfe6cf228a3de01f6fb4a2/classes.dex
+base.1=/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c02869ef8a3465d162bfe6cf228a3de01f6fb4a2
+file.0=/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e7990a50e6a22fb7e03fbd0280a2709703e15b81/classes.dex

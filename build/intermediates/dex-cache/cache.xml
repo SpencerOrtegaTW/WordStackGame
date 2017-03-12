@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_9a1c796236c2709adc4805e936f422e3d179d8b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_4628936f6b92c73c87d907f9ffaa1ffc1e4b2138/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_ea9cda4618273068b26943e2f50c6ed515f77045/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_d112a4adbe8b35e9b568e4ea26cdbe6d88414915/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_8935b6d04a5d1a699980e9050283fd89590b10cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="306525dac44d09330a9e0b90ed0013d74b7be652">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e7990a50e6a22fb7e03fbd0280a2709703e15b81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_e57c3a90d5473754a15a9b02c7dd0916c141464c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_1702f76a7963f297cf11002fe7c7d52e8582a54e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e3f93137209bcf85ec352edf0f4500ea164a815">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c02869ef8a3465d162bfe6cf228a3de01f6fb4a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_fdf7b41c17c24fb6753e824a7e4c405c445c42d9/classes.dex" />
+    </item>
+
+</items>

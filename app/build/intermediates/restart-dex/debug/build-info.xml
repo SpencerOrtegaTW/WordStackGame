@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="7756039505616"
+    token="1528784874599964124"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="339" />
+    <task
+        name="instant-run-dex"
+        duration="982" />
+    <task
+        name="instant-run-transform"
+        duration="134" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="443812578520"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1212191960756"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="6791718509051"
+        verifier="METHOD_DELETED" >
+        <artifact
+            location="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="6954548329303"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/builds/debug/6954548329303/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7041827142761"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/builds/debug/7041827142761/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7245421478099"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/builds/debug/7245421478099/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7756039505616"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/dpt1/Desktop/AndoridWithGoogle/WordStack_starter/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
